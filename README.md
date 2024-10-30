@@ -22,12 +22,12 @@ A beautiful, customizable terminal wrapper with script management and theme supp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/modern-terminal-ui.git
+git clone https://github.com/boodidly/gemma0_.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd modern-terminal-ui
+cd gemma0_
 ```
 
 3. Install dependencies:
